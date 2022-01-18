@@ -1,1 +1,1 @@
-# Let-s-learn-more-about-EXO
+# Lets-learn-more-about-EXO
