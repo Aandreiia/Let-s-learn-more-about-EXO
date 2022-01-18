@@ -1,0 +1,62 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: monospace;
+}
+	
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100%;
+background:#36096d;
+
+}
+.wrapper{
+	margin-top:10%;
+}
+
+.wrapper h1{
+	font-family: Lucida Handwriting;
+	font-size: 50px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+
+.team { 
+	position: relative;
+width: 900px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-wrap: wrap;
+justify-content: center;
+text-align: center;
+}
+
+.team .member{
+	background: #fff;
+	margin: 5px;
+	margin-bottom: 50px;
+	width: 300px;
+	padding: 20px;
+	line-height: 20px;
+	color: #36096d;
+	border: dashed violet;
+}
+
+.team .member h3{
+	color: purple;
+	font-size: 26px;
+	margin-top: 50px;
+	
+}
+
+.team .member h4{
+	color: #36096d;
+	font-size: 14px;
+	text-transform: uppercase;
+	margin: 12px 0;
+	
+}
